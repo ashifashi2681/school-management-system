@@ -2,7 +2,7 @@
 
 The School Management System allows role-based access control for different users such as Admin, Office Staff, and Librarian to manage various aspects of the school’s operations, including registration of staffs and librarians, student records, Fees Records and library management.
 
-## Roles
+<!-- ## Roles
 
 -   Admin
 -   Office Staff
@@ -95,4 +95,4 @@ At the very beginning of the app’s initialization, if no user exists in the da
 -   ADMIN_EMAIL = <initial_admin_email>
 -   ADMIN_PASSWORD = <initial_admin_password>
 -   MONGO_URL = <mongodb_url>
--   JWT_SECRET_KEY = <jwt_secrete_key>
+-   JWT_SECRET_KEY = <jwt_secrete_key> -->
