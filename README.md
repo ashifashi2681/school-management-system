@@ -15,7 +15,7 @@ The School Management System allows role-based access control for different user
 - Registration of staffs, librarians and students
 - View, update and delete staffs, librarians and students
 - Able to create, update and delete fees and library records
-- Able to update admin credentials
+- Able to update admin credentials as well as staff and librarians
 
 
 ### Staff Features
